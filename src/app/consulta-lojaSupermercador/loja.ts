@@ -2,6 +2,7 @@ export class loja  {
   codigodebarras: number;
   nome_do_produto: string;
   Foto: string;
+  preco: number;
   descricao: string;
   fabricado: string;
   validade: string;
